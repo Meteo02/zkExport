@@ -8,6 +8,12 @@ zkExport makes it easy to **export zkSync Era** and Lite transactions to differe
 
 Use zkExport directly via [zkExport.netlify.app](https://zkexport.netlify.app).
 
+## Local Run
+- Execute "npm install"
+- Execute "npm run dev"
+- Wait a bit and then open "http://localhost:3000" on the browser
+
+
 ## 🌐 Supported Networks
 
 zkExport currently supports the following networks:
